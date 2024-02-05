@@ -14,7 +14,7 @@ export const Banner = () => {
 
                         <motion.button 
                         whileHover={{
-                            scale: 1.1
+                            scale: 1.08
                         }}
                         >Request a Free Quote &nbsp;<motion.img src='./images/arrow1.png' />
                         </motion.button>
